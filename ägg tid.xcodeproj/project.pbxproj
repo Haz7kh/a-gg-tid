@@ -16,6 +16,7 @@
 		0AAD0DF228CC80360047591B /* a_gg_tidTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD0DF128CC80360047591B /* a_gg_tidTests.swift */; };
 		0AAD0DFC28CC80360047591B /* a_gg_tidUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD0DFB28CC80360047591B /* a_gg_tidUITests.swift */; };
 		0AAD0DFE28CC80360047591B /* a_gg_tidUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD0DFD28CC80360047591B /* a_gg_tidUITestsLaunchTests.swift */; };
+		0AAD0E0B28CC80DC0047591B /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0AAD0E0A28CC80DC0047591B /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0AAD0DF728CC80360047591B /* ägg tidUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ägg tidUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AAD0DFB28CC80360047591B /* a_gg_tidUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = a_gg_tidUITests.swift; sourceTree = "<group>"; };
 		0AAD0DFD28CC80360047591B /* a_gg_tidUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = a_gg_tidUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0AAD0E0A28CC80DC0047591B /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				0AAD0DDE28CC80330047591B /* ViewController.swift */,
 				0AAD0DE028CC80330047591B /* Main.storyboard */,
 				0AAD0DE328CC80350047591B /* Assets.xcassets */,
+				0AAD0E0A28CC80DC0047591B /* alarm_sound.mp3 */,
 				0AAD0DE528CC80350047591B /* LaunchScreen.storyboard */,
 				0AAD0DE828CC80350047591B /* Info.plist */,
 			);
@@ -233,6 +236,7 @@
 			files = (
 				0AAD0DE728CC80350047591B /* LaunchScreen.storyboard in Resources */,
 				0AAD0DE428CC80350047591B /* Assets.xcassets in Resources */,
+				0AAD0E0B28CC80DC0047591B /* alarm_sound.mp3 in Resources */,
 				0AAD0DE228CC80330047591B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
